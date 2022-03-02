@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/Joowon0220/TODO-List)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)](github.com/Joowon0220/TODO-List)
 -->
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk9336&show_icons=true&theme=radical)
