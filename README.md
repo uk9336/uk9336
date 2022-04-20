@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JW LEE&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JW%20LEE&fontSize=90&animation=fadeIn)
 
 <!--
 [![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Java&logoColor=white)](github.com/Joowon0220/TODO-List)
