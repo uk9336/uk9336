@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)](github.com/Joowon0220/TODO-List)
 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk9336&show_icons=true&theme=radical) -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uk9336)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uk9336)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk9336&count_private=true&show_icons=true&theme=radical)
